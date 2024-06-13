@@ -1,2 +1,1 @@
-# tampermonkey
-Collection of tampermonkey scripts
+Collection of tampermonkey scripts.
