@@ -6,7 +6,7 @@
 // @author       longkidkoolstar (original), notenufmana
 // @match        https://www.chess.com/*
 // @icon         https://cdn4.iconfinder.com/data/icons/chess-game-funny-colour/32/chess_game_funy_colour_ok_13-1024.png
-// @require      https://raw.githubusercontent.com/uzairfarooq/arrive/master/minified/arrive.min.js
+// @require      https://raw.githubusercontent.com/notenufmana/tampermonkey/main/arrive/arrive.min.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // ==/UserScript==
